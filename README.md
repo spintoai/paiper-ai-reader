@@ -1,4 +1,4 @@
-# <img src="https://paiper-ai-public-bucket.s3.ap-northeast-2.amazonaws.com/paiper-ai-logo-reader-128x128.png" alt="페이퍼AI 로고" width="40px" height="40px" /> 페이퍼AI (읽기쉽다)
+# <img src="https://paiper-ai-public-bucket.s3.ap-northeast-2.amazonaws.com/paiper-ai-logo-reader-128x128.png" alt="페이퍼AI 로고" width="40px" height="40px" style="vertical-align: middle;" /> 페이퍼AI (읽기쉽다)
 
 📢 **페이퍼AI (읽기쉽다) 앱이 런칭되었습니다!**  
 논문을 보다 쉽게 읽을 수 있도록 도와주는 강력한 도구를 소개합니다.  
@@ -46,6 +46,30 @@
 1. **dmg 파일 다운로드**
 2. **Application 폴더로 드래그 앤 드롭** (일반적인 Mac 앱 설치 방식)
 3. **설치 완료!** 🚀
+
+---
+
+## 🛠 사용 방법
+
+### 1️⃣ 논문 URL을 입력하고 브라우징
+1. **논문 URL을 입력하세요.**  
+2. **"URL로 논문 브라우징하기" 버튼을 클릭합니다.**  
+3. **브라우저에서 논문 내용을 직접 확인합니다.**
+
+### 2️⃣ 논문 내용 가져오기
+4. **"브라우저에서 논문 내용 가져오기" 버튼을 클릭하세요.**  
+5. **가져온 내용을 확인 후 "이 논문 번역하기! 🚀" 버튼을 누르세요.**
+
+---
+
+## ⚠️ 주의사항
+- 본 서비스는 **사용자가 직접 논문을 열람하고 내용을 가져오는 방식**을 사용합니다.  
+  - 대부분의 사이트에서 허용되지만, 각 사이트의 **이용 약관(Terms of Service)**을 확인하세요.  
+- 일부 논문 사이트의 구조에 따라, 브라우저에서는 정상적으로 보이지만  
+  **가져온 내용이 깨질 수 있으므로 확인이 필요합니다.**  
+- **PubMed Central**에 있는 논문들은 대부분 문제없이 가져올 수 있습니다.  
+- 동일한 논문이 원 저널 사이트뿐만 아니라 **PubMed Central**에도 올라와 있을 수 있습니다.  
+  - **PubMed Central 버전을 활용해 보세요!**  
 
 ---
 
