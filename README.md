@@ -1,4 +1,6 @@
-# 페이퍼AI (읽기쉽다) 🚀
+![페이퍼AI 로고](https://paiper-ai-public-bucket.s3.ap-northeast-2.amazonaws.com/paiper-ai-logo-reader-128x128.png)
+
+# 페이퍼AI (읽기쉽다) 
 
 📢 **페이퍼AI (읽기쉽다) 앱이 런칭되었습니다!**  
 논문을 보다 쉽게 읽을 수 있도록 도와주는 강력한 도구를 소개합니다.  
