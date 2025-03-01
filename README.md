@@ -64,7 +64,7 @@
 ---
 
 ## ❓ 자주 묻는 질문 (FAQ)
-**[FAQ 페이지](https://paiper-ai.com/#/faq)**에서 확인하세요!  
+[FAQ 페이지](https://paiper-ai.com/#/faq)에서 확인하세요!  
 
 ---
 
