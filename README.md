@@ -57,7 +57,6 @@
 ## 📺 사용 영상
 
 [![페이퍼AI 사용법](https://img.youtube.com/vi/kV6r1ZQWB7E/hqdefault.jpg)](https://www.youtube.com/watch?v=kV6r1ZQWB7E)
-[![페이퍼AI 상세 기능](https://img.youtube.com/vi/Lqsx-od1ct0/hqdefault.jpg)](https://www.youtube.com/watch?v=Lqsx-od1ct0)
 
 ---
 
