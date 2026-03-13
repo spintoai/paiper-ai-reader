@@ -1,4 +1,4 @@
-# <img src="https://paiper-ai-public-bucket.s3.ap-northeast-2.amazonaws.com/paiper-ai-logo-reader-128x128.png" alt="페이퍼AI 로고" width="40px" height="40px" style="vertical-align: middle;" /> 페이퍼AI (읽기쉽다)
+# <img src="https://paiper-ai-public-bucket.s3.ap-northeast-2.amazonaws.com/paiper-ai-v3-reader.png" alt="페이퍼AI 로고" width="40px" height="40px" style="vertical-align: middle;" /> 페이퍼AI (읽기쉽다)
 
 **논문, 이제는 쉽고 편하게 읽으세요!** AI가 논문을 완벽하게 번역해드립니다.
 
